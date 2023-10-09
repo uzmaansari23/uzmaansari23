@@ -1,16 +1,29 @@
 ### Hi there 👋
+ Hello, I'm Uzma Ansari👋
+ 🌱 I’m currently learning WEB development.
+ 📫 How to reach me: uzmaans777@gmail.com
+ 😄 Pronouns: she/her
 
-<!--
-**uzmaansari23/uzmaansari23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My GitHub Stats
+![
+Your GitHub Stats
+](
+https://github-readme-stats.vercel.app/api?username=uzmaansari23&show_icons=true&theme=light
+)
 
-Here are some ideas to get you started:
+### My Top Languages
+![
+Top Languages
+](
+https://github-readme-stats.vercel.app/api/top-langs/?username=uzmaansari23&layout=compact&theme=light
+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+ LinkedIn: [
+uzma23
+](
+https://www.linkedin.com/in/uzma23/
+)
+
+![GitHub Followers](https://img.shields.io/github/followers/uzmaansari23?label=Followers&style=social)
+
